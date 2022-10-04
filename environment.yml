@@ -1,0 +1,7 @@
+name: wine-environment
+
+dependencies:
+  - python=3.10
+  - jupyter
+  - numpy
+  - pandas
