@@ -1,7 +1,12 @@
 name: wine-environment
 
+channels:
+  - defaults
+  - conda-forge
+
 dependencies:
   - python=3.10
   - jupyter
   - numpy
   - pandas
+  - tensorflow-hub
