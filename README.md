@@ -16,7 +16,7 @@ This is also true for the wine industry, with people leaving numerous reviews on
 paper examines useful insights into wine consumer’s preferences regarding wine taste, country
 of origin and wine style. This allows producers to align their offer with trends in the wine
 market, create a better profit margin and expand their customer base. The data was collected
-from Twitter and Vivino web page. After it was preprocessed and a sentiment label was
+from Twitter and Vivino reviews web page. After it was preprocessed and a sentiment label was
 assigned to it. Adequate sentiment classification of review text allowed for analyzing which
 properties of wines are liked and whether sentiment towards wine can be determined using
 information about its taste. The research showed that preferences towards more sweet wines
