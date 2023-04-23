@@ -6,6 +6,8 @@ Course project for Big Data in Media Tecnhology course, KTH - The Royal Institut
 Authors: Aina Mas Tena, Alejandro Campayo Fernández, Mihaela Baksic
 
 
+## Project description
+
 This work aims at examining preferences of wine cosumers based on reviews they leave online. The project was carried out in collaboration with Ciù Ciù Tenimenti Bartolomei, Italy.
 
 
