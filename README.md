@@ -23,3 +23,6 @@ information about its taste. The research showed that preferences towards more s
 exist, but no reliable predictions about general sentiment towards wine can be made solely on
 its taste components. In addition to taste, customer preferences also depend on wine origin
 and wine style.
+
+#### Keywords
+Sentiment analysis, Sentiment classification, NLP, Web scrapping, Text encoding, EDA, PCA, XGBoost, wine preferences
